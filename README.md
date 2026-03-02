@@ -10,7 +10,7 @@ The analysis utilizes **Point Estimates** and **Confidence Intervals (CI)** to m
 
 ### 🔗 Project Navigation
 * **Current Stage:** Part 1 - REM Sleep Analysis (Means)
-* **Next Stage:** [Part 2 - Sleep Duration Analysis (Proportions) →](./Path_To_Part2_Folder_Or_URL)
+* **Next Stage:** [Part 2 - Sleep Duration Analysis (Proportions) →](https://github.com/ayushi-gajendra/confidence-intervals-for-proportions)
 
 ---
 
