@@ -8,6 +8,12 @@ The analysis utilizes **Point Estimates** and **Confidence Intervals (CI)** to m
 
 ---
 
+### 🔗 Project Navigation
+* **Current Stage:** Part 1 - REM Sleep Analysis (Means)
+* **Next Stage:** [Part 2 - Sleep Duration Analysis (Proportions) →](./Path_To_Part2_Folder_Or_URL)
+
+---
+
 ## 📉 The Business Problem
 
 Stress is a significant disruptor of sleep architecture. While "Normal" REM sleep typically accounts for **20–25%** of total sleep time, significant stress can suppress this to **15–20%**.
