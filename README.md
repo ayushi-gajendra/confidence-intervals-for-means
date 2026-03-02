@@ -1,4 +1,4 @@
-# 🛌 Human Sleep Patterns & Stress: Inferential Analysis (Part 1)
+# 🛌 Human Sleep Patterns & Stress - Part 1: REM Sleep Analysis (Means)
 
 ## 📌 Project Overview
 
