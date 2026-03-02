@@ -1,4 +1,9 @@
-# 🛌 Human Sleep Patterns & Stress - Part 1: REM Sleep Analysis (Means)
+# 🛌 Human Sleep Patterns & Stress - Part 1
+![Data Analysis](https://img.shields.io/badge/Analysis-Inferential%20Statistics-blue?style=for-the-badge)
+![Domain](https://img.shields.io/badge/Domain-Health%20%26%20Wellness-red?style=for-the-badge)
+![Method](https://img.shields.io/badge/Method-Confidence%20Intervals%20(Means)-orange?style=for-the-badge)
+![Google Sheets](https://img.shields.io/badge/Tools-Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
+### *REM Sleep Analysis (Confidence Intervals for Means)*
 
 ## 📌 Project Overview
 
@@ -8,9 +13,9 @@ The analysis utilizes **Point Estimates** and **Confidence Intervals (CI)** to m
 
 ---
 
-### 🔗 Project Navigation
-* **Current Stage:** Part 1 - REM Sleep Analysis (Means)
-* **Next Stage:** [Part 2 - Sleep Duration Analysis (Proportions) →](https://github.com/ayushi-gajendra/confidence-intervals-for-proportions)
+## Project Series: 
+
+`Part 1: REM Analysis` | [`Part 2: Sleep Duration →`](https://github.com/ayushi-gajendra/confidence-intervals-for-proportions)
 
 ---
 
